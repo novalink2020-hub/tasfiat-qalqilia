@@ -7154,12 +7154,13 @@
   "has_discount": "false",
   "discount_percent": "0",
   "price_bucket": "معلومة"
-},
+}
     ],
     "cleaned_at": "2026-02-02T21:14:16.173475Z",
     "notes": "Removed accidental header row and deduplicated by product_slug (kept first occurrence)."
 
 }
+
 
 
 
